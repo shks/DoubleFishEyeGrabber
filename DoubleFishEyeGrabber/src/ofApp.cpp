@@ -22,7 +22,7 @@ ofQuaternion ofQuatFromEul(ofVec3f eul)
 //--------------------------------------------------------------
 void ofApp::setup(){
     
-    mainOutputSyphonServer.setName("JackInHeadGrabber");
+    mainOutputSyphonServer.setName("SyphonGrabber");
     
     // - - - - GLSL - - - - - - - - - - - - - - - - //
     shader.load("JKH3");
