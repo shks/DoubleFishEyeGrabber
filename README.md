@@ -10,3 +10,7 @@ Double Fish Eye映像を１つの正離遠投図法映像に変換する。
 ### パラメータ変更
 * 左に表示されるGUIで変更
 * keyboard [s]を押すと、xmlに保存され、次回起動の際に読み込まれる。
+
+### 実行環境
+* of_v0.8.1_osx_release (should work with later version of openFrameworks http://openframeworks.jp/)
+* 
