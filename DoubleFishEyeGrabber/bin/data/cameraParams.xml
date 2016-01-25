@@ -1,0 +1,105 @@
+<Widget>
+    <Kind>2</Kind>
+    <Name>Convert</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>enable_GLSL</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>K1</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>K2</Name>
+    <Value>-0.115000002</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>K3</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>Enable Texture</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>0:FishEyeCenterX</Name>
+    <Value>960.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>0:FishEyeCenterY</Name>
+    <Value>540.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>0:FishEyeRadius</Name>
+    <Value>900.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>0:FishEyeFOV</Name>
+    <Value>248.936157227</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>0:ROT X</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>0:ROT Y</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>0:ROT Z</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>Enable Texture</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>1:FishEyeCenterX</Name>
+    <Value>960.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>1:FishEyeCenterY</Name>
+    <Value>540.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>1:FishEyeRadius</Name>
+    <Value>900.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>1:FishEyeFOV</Name>
+    <Value>230.744689941</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>1:ROT X</Name>
+    <Value>175.212768555</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>1:ROT Y</Name>
+    <Value>90.957450867</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>1:ROT Z</Name>
+    <Value>0.000000000</Value>
+</Widget>

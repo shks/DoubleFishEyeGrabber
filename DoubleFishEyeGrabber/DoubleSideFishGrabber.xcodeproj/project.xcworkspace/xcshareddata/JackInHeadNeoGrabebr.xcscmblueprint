@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "46BA7C738EC2C5B5522E3FCC6076F87C1841E57E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9FD863BC8E941C6F750344A46AF2582FEA44696F" : 0,
+    "46BA7C738EC2C5B5522E3FCC6076F87C1841E57E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "34AF8740-F119-4D28-B684-B7C04A3C2ADD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9FD863BC8E941C6F750344A46AF2582FEA44696F" : "",
+    "46BA7C738EC2C5B5522E3FCC6076F87C1841E57E" : "JackInHeadSystem_release"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JackInHeadNeoGrabebr",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "[Grabber]JackInHeadNeo\/JackInHeadNeoGrabebr.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shks\/JackInHeadSystem.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "46BA7C738EC2C5B5522E3FCC6076F87C1841E57E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/shks\/openframeworksdev081.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FD863BC8E941C6F750344A46AF2582FEA44696F"
+    }
+  ]
+}

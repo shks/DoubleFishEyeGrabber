@@ -1,0 +1,32 @@
+dddd# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+
+# Compiled Static libraries
+*.lai
+*.la
+
+
+# Xcode related ignore
+*.app
+*.xccheckout
+*.xcuserstate
+*.xcscheme
+*.plist
+!openFrameworks-Info.plist
+
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
+
+.DS_Store
+
+
+#for ignore some 
+*.mpg
+*.mov
+*.csv
+*.avi
