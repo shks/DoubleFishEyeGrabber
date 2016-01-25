@@ -13,4 +13,5 @@ Double Fish Eye映像を１つの正離遠投図法映像に変換する。
 
 ### 実行環境
 * of_v0.8.1_osx_release (should work with later version of openFrameworks http://openframeworks.jp/)
-* 
+* MacOSX 10.11
+* BlackMagic(HDMI)を使う場合には、Desk Video Utilityをインストールする必要あり。https://www.blackmagicdesign.com/jp/support
